@@ -1,0 +1,68 @@
+* {
+  color: black;
+}
+
+.search-input {
+  margin-top: 10px;
+}
+
+span {
+  float:right;
+  display: inline;
+}
+
+#formGroupExampleInput4 {
+  height: 100px;
+}
+
+table {
+  border: 1px black solid;
+}
+
+th {
+    border: 1px black solid;
+    background-color: grey;
+}
+
+td {
+      border: 1px black solid;
+}
+
+.table > thead > tr > th {
+    vertical-align: bottom;
+border-bottom: 2px solid black;
+}
+
+.panel-heading {
+  background-color: white !important;
+}
+
+.inline { display: inline;
+}
+
+.no-padding {
+  padding: 0px;
+}
+
+.border {
+  border: 1px black solid;
+}
+
+.padding-p {
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.padding-ikona {
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.left {
+  float: left;
+}
+
+#exampleModalLabel {
+  font-size: 20px;
+}
